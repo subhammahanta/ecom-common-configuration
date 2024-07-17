@@ -15,3 +15,5 @@ microservice:
       fetchUserbyId:
         uri: http://USER-SERVICE/users/
       
+test:
+  value: 1
